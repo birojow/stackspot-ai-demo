@@ -1,4 +1,4 @@
-Eu: me explique o que você é capaz de fazer.
+Fabiano: me explique o que você é capaz de fazer.
 
 Stackspot AI: Eu sou um assistente de IA especializado em ajudar com programação e posso fornecer exemplos de código, explicar conceitos de programação e frameworks, e ajudar a resolver problemas de código. No contexto específico da sua pergunta, posso fornecer exemplos de como escrever testes usando o framework unittest do Python. Aqui está um exemplo básico de como você pode usar unittest para escrever um teste para uma função simples:
 
